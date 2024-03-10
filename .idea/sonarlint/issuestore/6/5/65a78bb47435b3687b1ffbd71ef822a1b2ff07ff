@@ -1,0 +1,15 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(‘¸Åª8ü²¦ÿİ1
+G	java:S106F"+Replace this use of System.out by a logger.(©ÑŸî8‰â¯ÊÜ1
+e
+java:S1128"HRemove this unused import 'com.github.dockerjava.api.model.ExposedPort'.(°ÖŠ¼8‰â¯ÊÜ1
+e
+java:S1128"HRemove this unused import 'com.github.dockerjava.api.model.PortBinding'.(Ä—¾—8‰â¯ÊÜ1
+_
+java:S1128"BRemove this unused import 'com.github.dockerjava.api.model.Ports'.(¹¤´½8‰â¯ÊÜ1
+i
+java:S1128"MRemove this unused import 'org.testcontainers.containers.wait.strategy.Wait'.(á­ˆu8Šâ¯ÊÜ1
+i
+java:S1128"GRemove this unused import 'org.testcontainers.utility.DockerImageName'.(ìúĞúÿÿÿÿ8Šâ¯ÊÜ1
+H
+java:S5960="+Remove this assertion from production code.(à¿‹Á8Šâ¯ÊÜ1

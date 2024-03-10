@@ -1,0 +1,19 @@
+
+p
+java:S2095"NUse try-with-resources or close this "GenericContainer" in a "finally" clause.(ËìšŠûÿÿÿÿ8‰³ï¿Ü1
+k
+java:S2095+"NUse try-with-resources or close this "GenericContainer" in a "finally" clause.(˜“äÒ8‰³ï¿Ü1
+j
+java:S20955"NUse try-with-resources or close this "GenericContainer" in a "finally" clause.(·“Âe8‰³ï¿Ü1
+p
+java:S2095!"NUse try-with-resources or close this "GenericContainer" in a "finally" clause.(µ£–ùÿÿÿÿ8‰³ï¿Ü1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(–š¸8”›½½Ü1
+C
+java:S1452"&Remove usage of generic wildcard type.(ºª8–›½½Ü1
+C
+java:S1452 "&Remove usage of generic wildcard type.(„Û¥Ó8›½½Ü1
+C
+java:S1452*"&Remove usage of generic wildcard type.(Ó°¦Ô8›½½Ü1
+H
+java:S14524"&Remove usage of generic wildcard type.(±‚Äøÿÿÿÿ8›½½Ü1

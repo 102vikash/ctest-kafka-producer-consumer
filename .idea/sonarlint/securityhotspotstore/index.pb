@@ -55,3 +55,5 @@ o
 ?consumerapp/src/componentTest/java/com/consumer/TestSuites.java,c/d/cd49b5667a790c48c42a4abd157c07be8dc7f02c
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+?
+innermodule.iml,9/d/9d60680e3416ca87745e342d8bca5b2e133e2bcb
